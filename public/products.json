@@ -1,0 +1,68 @@
+{
+  "products" : [
+    {
+      "id" : "1",
+      "imgSrc" : "images/1.jpg",
+      "price" : "$1.00",
+      "color" : ["red", "purple" , "pink" , "Dirty Pink"],
+      "name" : "Loreal",
+      "content" : "Vocent interesset mei ex, no cum idque sapientem."
+    },
+    {
+      "id" : "2",
+      "imgSrc" : "images/2.jpg",
+      "price" : "$4.99",
+      "color" : ["red", "purple" , "brown" , "black" , "pink" , "Dirty Pink"],
+      "name" : "Anny",
+      "content" : "Vocent interesset mei ex, no cum idque sapientem."
+    },
+    {
+      "id" : "3",
+      "imgSrc" : "images/3.jpg",
+      "price" : "$2.50",
+      "color" : ["brown" , "black"],
+      "name" : "Maybelline",
+      "content" : "Vocent interesset mei ex, no cum idque sapientem."
+    },
+    {
+      "id" : "4",
+      "imgSrc" : "images/4.jpg",
+      "price" : "$3.74",
+      "color" : ["red", "purple" , "pink" , "Dirty Pink"],
+      "name" : "Artdeco",
+      "content" : "Vocent interesset mei ex, no cum idque sapientem."
+    },
+    {
+      "id" : "5",
+      "imgSrc" : "images/5.jpg",
+      "price" : "$1.20",
+      "color" : ["brown" ,"red", "purple" , "pink" , "Dirty Pink"],
+      "name" : "Isadora",
+      "content" : "Vocent interesset mei ex, no cum idque sapientem."
+    },
+    {
+      "id" : "6",
+      "imgSrc" : "images/6.jpg",
+      "price" : "$2.10",
+      "color" : ["brown" , "purple" , "pink" , "Dirty Pink"],
+      "name" : "Isadora",
+      "content" : "Vocent interesset mei ex, no cum idque sapientem."
+    },
+    {
+      "id" : "7",
+      "imgSrc" : "images/7.jpg",
+      "price" : "$3.40",
+      "color" : ["brown" , "blue", "purple" , "pink" , "Dirty Pink"],
+      "name" : "Isadora",
+      "content" : "Vocent interesset mei ex, no cum idque sapientem."
+    },
+    {
+      "id" : "8",
+      "imgSrc" : "images/8.jpg",
+      "price" : "$4.00",
+      "color" : ["brown" , "purple" , "pink" , "Dirty Pink"],
+      "name" : "Artdeco",
+      "content" : "Vocent interesset mei ex, no cum idque sapientem."
+    }
+  ]
+}
